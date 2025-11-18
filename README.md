@@ -3,7 +3,7 @@ This repository contains a collection of programming projects completed during m
 Each folder or file represents a separate project or exercise, ranging from basic scripting to small applications demonstrating core CS concepts.
 
 Skills Demonstrated:
-	•	Python fundamentals
+	Python fundamentals
 	•	Problem solving & algorithmic thinking
 	•	Input validation
 	•	Arithmetic and logical operations
